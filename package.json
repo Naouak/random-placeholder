@@ -1,0 +1,17 @@
+{
+    "name": "random-placeholder",
+    "version": "0.1",
+    "author": "Naouak <ika@musume.fr>",
+    "description": "A random placeholder generator from pictures.",
+    "dependencies": {
+        "easyimage": "*"
+    },
+    "keywords":[
+        "placeholder",
+        "image",
+        "resize",
+        "crop",
+        "utility"
+    ],
+    "license": "WTFPL"
+}
