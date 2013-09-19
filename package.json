@@ -1,6 +1,6 @@
 {
     "name": "random-placeholder",
-    "version": "0.1",
+    "version": "0.1.0",
     "author": "Naouak <ika@musume.fr>",
     "description": "A random placeholder generator from pictures.",
     "dependencies": {
@@ -13,5 +13,9 @@
         "crop",
         "utility"
     ],
-    "license": "WTFPL"
+    "license": "WTFPL",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Naouak/random-placeholder.git"
+    }
 }
